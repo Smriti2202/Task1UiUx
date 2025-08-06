@@ -3,11 +3,14 @@
 ## 📸 Before-and-After Visuals  
 
 ### 🔹 Before  
- 
+ ![Before Screenshot](Randomness1.png) 
+ ![Before Screenshot](Randomness2.png)
+ ![Before Screenshot](Randomness3.png) 
 
 ### 🔹 After  
-
-
+![After Screenshot](Playground1.png)
+![After Screenshot](Playground2.png)
+![After Screenshot](Playground3.png)
 
 ## 🎨 Design Decisions  
 
